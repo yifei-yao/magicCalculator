@@ -136,3 +136,12 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/magicCalculator.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/GUI.cpython-39.pyc
+*.pyc
+__pycache__/GUI.cpython-39.pyc
